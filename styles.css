@@ -1,0 +1,46 @@
+button {
+    float: left;
+    width: 150px;
+    background-color: chartreuse;
+    margin:5px;
+    border-color: blue;
+}
+
+input {
+    float:left;
+    width:45px;
+    background-color: whitesmoke;
+    margin:5px;
+    
+}
+
+div {
+    clear: both;
+}
+
+body{
+    background-color: cornflowerblue;
+}
+header {
+    background-color: silver;
+    
+    
+    height: 100px;
+}
+.center {
+    text-align: center;
+    padding:20px;
+}
+
+.choices {
+    font-size: 20px;
+    font-family:cursive ;
+}
+h2{
+    text-decoration: underline;
+}
+footer {
+    clear: both;
+    background-color: chartreuse;
+    border-radius: 8px;
+}
